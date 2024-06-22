@@ -4,8 +4,7 @@ const nextConfig = {
         domains: [
             "res.cloudinary.com"
         ],
-    },
-    publicRoutes: ["/api/:path*"],
+    }
 };
 
 export default nextConfig;
